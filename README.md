@@ -131,4 +131,5 @@ Even though this is a machine learning project, it ties directly to real applica
 - Supports regulatory reporting  
 - Provides emissions estimates for companies 
 
-
+### Elevator Pitch
+https://www.youtube.com/watch?v=DlaH8P5lR9A
