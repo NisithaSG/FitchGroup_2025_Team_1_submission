@@ -1,4 +1,4 @@
-# Team 1 – Predicting Scope 1 & Scope 2 Emissions
+# Team 1 – Predicting Scope 1 & Scope 2 Emissions - WINNER
 
 This project focuses on estimating company greenhouse gas emissions (Scope 1 and Scope 2) when they aren’t reported. These emissions numbers are important for things like climate-risk scoring, investment decisions, and sustainability reporting.  
 
